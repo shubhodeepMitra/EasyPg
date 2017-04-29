@@ -6,6 +6,6 @@ This repository contains the front end part of the mini project.
 
 
 
-Template used from Markups (http://www.markups.io), NO RIGHTS have been VIOLATED the former used MIT license for its template.
+Template used from Markups (http://www.markups.io),  the former used MIT license for its template.
 
 
